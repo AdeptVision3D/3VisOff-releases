@@ -59,11 +59,13 @@
 
 Базовая версия **бесплатна** и остаётся такой. PRO подключается ключом (интернет для проверки ключа не нужен).
 
-| Срок | Цена | В месяц |
-|---|---|---|
-| 30 дней | **650 ₽** | 650 ₽ |
-| 90 дней | **1 590 ₽** | ≈ 530 ₽ |
-| 180 дней | **2 690 ₽** | ≈ 450 ₽ |
+| Срок | Цена, ₽ | Цена, $ (USDT) | В месяц |
+|---|---|---|---|
+| 30 дней | **650 ₽** | **$9** | 650 ₽ / $9 |
+| 90 дней | **1 590 ₽** | **$20** | ≈ 530 ₽ / ≈ $6,7 |
+| 180 дней | **2 690 ₽** | **$34** | ≈ 450 ₽ / ≈ $5,7 |
+
+Оплата из России: перевод на карту или по СБП. Из других стран: **USDT** (подробности пришлёт бот поддержки).
 
 Можно попросить **пробный ключ на 7 дней** с частью функций PRO. Купить ключ или получить пробный: бот поддержки [@visoff_support_bot](https://t.me/visoff_support_bot).
 
@@ -120,6 +122,7 @@ xattr -cr /Applications/3VisOff.app
 **3VisOff** is a desktop organizer for 3D visualizers (freelancers): projects and clients, price calculation (exterior shots, interior rooms by area, urgency, paid revisions), invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. The interface is available in Russian and English. **All data stays on your computer.**
 
 - Free base version; PRO adds contracts and acts with auto-filled data, sending documents by email, payment QR codes, branded documents, outreach, order search and multi-device sync.
+- PRO price: **$9 / 30 days, $20 / 90 days, $34 / 180 days**, paid in USDT. A 7-day trial key with part of the PRO features is available on request.
 - Download: [latest release](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) (macOS Apple Silicon and Windows).
 - macOS: the app is not yet signed by Apple; after installing run `xattr -cr /Applications/3VisOff.app` once, or use *System Settings → Privacy & Security → Open Anyway*.
 - Privacy: see [PRIVACY.md](PRIVACY.md) (in Russian). Client and project data are never sent to the developer.
