@@ -1,85 +1,45 @@
 <div align="center">
 
-<img src="docs/icon.png" width="96" alt="3VisOff">
-
-# 3VisOff
-
-**Органайзер для 3D-визуализатора: проекты, клиенты, расчёт цены, счета и акты, финансы и налоги в одной программе.**
-Все данные хранятся только на вашем компьютере.
+<a href="https://github.com/AdeptVision3D/3VisOff-releases/releases/latest"><img src="docs/banner.png" alt="3VisOff: органайзер для 3D-визуализатора" width="100%"></a>
 
 [![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=4c8dff)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) ![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey) ![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
 
 ### [⬇️ Скачать последнюю версию](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest)
 
-[Возможности](#возможности) · [Установка](#установка) · [PRO и цены](#pro-и-цены) · [Приватность](#приватность) · [Поддержка](#поддержка) · [English](#english)
+[Возможности](#возможности) · [Скриншоты](#как-это-выглядит) · [PRO и цены](#pro-и-цены) · [Установка](#установка) · [Приватность](#приватность) · [Поддержка](#поддержка) · [English](#english)
 
 </div>
 
 <br>
 
-<p align="center">
-  <img src="docs/screens/1-dashboard.png" width="860" alt="Главная: сводка и проекты">
-</p>
-
 ## Возможности
 
+<p align="center">
+  <img src="docs/features.png" alt="Возможности: проекты и клиенты, расчёт цены, счета и акты, финансы и налоги, поиск заказов, все данные у вас" width="100%">
+</p>
+
+## Как это выглядит
+
+<p align="center">
+  <img src="docs/shot-1-dashboard.png" alt="Главная" width="880">
+</p>
+<p align="center">
+  <img src="docs/shot-3-project-card.png" alt="Расчёт цены" width="880">
+</p>
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📋 Проекты и клиенты
-Статусы от «Лид» до «Оплачен», сроки, прогресс этапов, оплаты по каждому проекту. Сразу видно, что в работе, что просрочено и сколько ещё должны.
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Расчёт цены
-Экстерьер: кадры × цена. Интерьер: помещения по площади. Срочность, скидка или наценка, платные правки сверх бесплатных кругов. Итог записывается в проект одной кнопкой.
-
-</td>
+<td width="50%"><img src="docs/shot-2-projects.png" alt="Проекты"></td>
+<td width="50%"><img src="docs/shot-4-finance.png" alt="Финансы"></td>
 </tr>
 <tr>
-<td valign="top">
-
-### 🧾 Документы
-Счёт в PDF бесплатно. Акт и договор с автоподстановкой данных клиента, свои шаблоны, история документов (PRO).
-
-</td>
-<td valign="top">
-
-### 📈 Финансы и налоги
-Доходы и расходы, статистика по месяцам и клиентам, оценка налога самозанятого, обязательства и напоминания, когда платить.
-
-</td>
+<td><img src="docs/shot-5-stats.png" alt="Статистика"></td>
+<td><img src="docs/shot-6-calendar.png" alt="Календарь"></td>
 </tr>
 <tr>
-<td valign="top">
-
-### 📅 Календарь
-Дедлайны проектов, платежи и события в одном месте.
-
-</td>
-<td valign="top">
-
-### 🔒 Безопасность
-PIN-код, код восстановления, автоматические резервные копии, тёмная, светлая и чёрно-белая темы, русский и английский интерфейс.
-
-</td>
+<td><img src="docs/shot-9-light-dashboard.png" alt="Светлая тема"></td>
+<td><img src="docs/shot-7-orders.png" alt="Раздел «Заказы»"></td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="docs/screens/2-projects.png" width="420" alt="Список проектов">
-  <img src="docs/screens/3-project-card.png" width="420" alt="Карточка проекта и расчёт цены">
-</p>
-<p align="center">
-  <img src="docs/screens/4-finance.png" width="420" alt="Финансы">
-  <img src="docs/screens/5-stats.png" width="420" alt="Статистика">
-</p>
-<p align="center">
-  <img src="docs/screens/6-calendar.png" width="420" alt="Календарь">
-  <img src="docs/screens/9-light-dashboard.png" width="420" alt="Светлая тема">
-</p>
 
 ### Что даёт PRO
 
@@ -94,10 +54,6 @@ PIN-код, код восстановления, автоматические р
 | Рассылки | Холодные рассылки по списку компаний с вашей почты, уведомления об ответах |
 | **Заказы** | Заказы со страницы 3ddd и из писем-уведомлений бирж в вашей почте собираются в один список, мусор убирается |
 | Синхронизация | Одни и те же данные на нескольких компьютерах через облачную папку |
-
-<p align="center">
-  <img src="docs/screens/7-orders.png" width="860" alt="Раздел «Заказы»: источники и фильтры">
-</p>
 
 ## PRO и цены
 
