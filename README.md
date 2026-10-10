@@ -7,9 +7,7 @@
 **Органайзер для 3D-визуализатора: проекты, клиенты, расчёт цены, счета и акты, финансы и налоги в одной программе.**
 Все данные хранятся только на вашем компьютере.
 
-[![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=4c8dff)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest)
-![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey)
-![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
+[![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=4c8dff)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) ![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey) ![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
 
 ### [⬇️ Скачать последнюю версию](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest)
 
