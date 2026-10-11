@@ -12,9 +12,13 @@
 
 <br>
 
-**3VisOff** — настольная программа для фрилансеров: **3D-визуализаторов** и **дизайнеров интерьеров**. Проекты и клиенты, расчёт цены, счета и акты, финансы и налоги самозанятого, календарь. Два пространства в одной программе: **«Визер»** и **«Дизайнер»**, переключатель в боковом меню. Все данные хранятся только на вашем компьютере.
+### Творите. Остальное посчитаем.
+
+Цена проекта, счёт, акт, налог и напоминание об оплате: за пару кликов, а не за вечер с таблицами. **3VisOff** — программа для **3D-визуализаторов** и **дизайнеров интерьеров**. Два режима в одном окне: **«Визер»** для рендеров и **«Дизайнер»** для проектов интерьера. Ни облака, ни аккаунтов: всё работает у вас на компьютере и больше нигде.
 
 ## Возможности
+
+*Одно окно вместо десяти вкладок: таблицы, калькулятор, шаблоны документов, календарь и учёт денег.*
 
 <p align="center">
   <img src="docs/features.png" alt="Возможности: проекты и клиенты, расчёт цены, счета и акты, финансы и налоги, поиск заказов, все данные у вас" width="100%">
@@ -57,7 +61,7 @@ PRO добавляет автоматизацию и интеграции (сп�
 
 ### Пространство «Дизайнер» (бесплатно)
 
-Отдельное пространство для дизайнеров интерьеров, переключатель «Визер / Дизайнер» в боковом меню. У каждого пространства свои проекты, этапы и расчёт цены; клиенты, календарь, финансы и настройки общие. Любой проект можно показать и в другом пространстве. Если вы пользовались программой раньше, вы остаётесь в «Визере», данные не меняются.
+От брифа до авторского надзора в одном месте. Клиент не скажет «я такого не просил»: версии и правки лежат в журнале. Отдельное пространство для дизайнеров интерьеров, переключатель «Визер / Дизайнер» в боковом меню. У каждого пространства свои проекты, этапы и расчёт цены; клиенты, календарь, финансы и настройки общие. Любой проект можно показать и в другом пространстве. Если вы пользовались программой раньше, вы остаётесь в «Визере», данные не меняются.
 
 - **План работ по этапам:** бриф, обмеры, планировочные решения, концепция, визуализация, рабочая документация, комплектация, авторский надзор. Этапы с галочками и своими полями; типы проектов «Интерьер», «Экстерьер», «Коммерция».
 - **Цена проекта по этапам**, расчёт за м² и итог одной кнопкой.
@@ -165,7 +169,9 @@ xattr -cr /Applications/3VisOff.app
 
 ## English
 
-**3VisOff** is a desktop organizer for freelance **3D visualizers** and **interior designers**: projects and clients, price calculation (exterior shots, interior rooms by area, urgency, paid revisions), invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. The interface is available in Russian and English. **All data stays on your computer.**
+**Create. We will do the math.**
+
+Project price, invoice, act, tax and payment reminders in a couple of clicks instead of an evening with spreadsheets. **3VisOff** is a desktop app for freelance **3D visualizers** and **interior designers**: projects and clients, price calculation, invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. No cloud, no accounts: **all data stays on your computer.** The interface is available in Russian and English.
 
 - **Two spaces in one app:** "Визер" (visualizer) and "Дизайнер" (designer), switched in the sidebar. The designer space is free and includes work stages from brief to author supervision, price per stage, payment schedule, approval log, procurement list, supervision visits in the calendar, object card and a 22-question client brief.
 - Free base version; PRO adds contracts and acts with auto-filled data, sending documents by email, payment QR codes, branded documents, outreach, order search and multi-device sync.
