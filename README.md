@@ -12,11 +12,25 @@
 
 <br>
 
+**3VisOff** — настольная программа для фрилансеров: **3D-визуализаторов** и **дизайнеров интерьеров**. Проекты и клиенты, расчёт цены, счета и акты, финансы и налоги самозанятого, календарь. Два пространства в одной программе: **«Визер»** и **«Дизайнер»**, переключатель в боковом меню. Все данные хранятся только на вашем компьютере.
+
 ## Возможности
 
 <p align="center">
   <img src="docs/features.png" alt="Возможности: проекты и клиенты, расчёт цены, счета и акты, финансы и налоги, поиск заказов, все данные у вас" width="100%">
 </p>
+
+### Что входит в бесплатную версию
+
+- проекты, клиенты, статусы, сроки, поиск по всему (⌘K / Ctrl+K);
+- расчёт цены: кадры, помещения по площади, срочность, скидка, платные правки;
+- счёт в PDF; пустые бланки акта и договора;
+- финансы: доходы и расходы, статистика, оценка налога самозанятого, обязательства и напоминания, выгрузка в Excel (CSV);
+- календарь с напоминаниями;
+- всё пространство «Дизайнер» (см. ниже);
+- PIN-код, резервные копии и восстановление, светлая, тёмная и чёрно-белая темы, русский и английский интерфейс.
+
+PRO добавляет автоматизацию и интеграции (список [ниже](#что-даёт-pro)).
 
 ## Как это выглядит
 
@@ -41,9 +55,19 @@
 </tr>
 </table>
 
-### Пространство «Дизайнер»
+### Пространство «Дизайнер» (бесплатно)
 
-Отдельное пространство для дизайнеров интерьеров: переключатель «Визер / Дизайнер» в боковом меню. Свои проекты, этапы от брифа до авторского надзора, цена по этапам, график оплат, журнал согласований, ведомость комплектации и бриф клиента. Клиенты, календарь, финансы и настройки общие.
+Отдельное пространство для дизайнеров интерьеров, переключатель «Визер / Дизайнер» в боковом меню. У каждого пространства свои проекты, этапы и расчёт цены; клиенты, календарь, финансы и настройки общие. Любой проект можно показать и в другом пространстве. Если вы пользовались программой раньше, вы остаётесь в «Визере», данные не меняются.
+
+- **План работ по этапам:** бриф, обмеры, планировочные решения, концепция, визуализация, рабочая документация, комплектация, авторский надзор. Этапы с галочками и своими полями; типы проектов «Интерьер», «Экстерьер», «Коммерция».
+- **Цена проекта по этапам**, расчёт за м² и итог одной кнопкой.
+- **График оплат:** «поровну» или «по этапам»; отметка «оплачено» сама создаёт приход в финансах.
+- **Счёт и акт по этапам** в PDF с подписью «Оплачено ранее».
+- **Журнал согласований:** версии, статусы, платные правки, защита от споров «я такого не просил».
+- **Ведомость комплектации:** позиции, поставщики, статусы, процент дизайнера, выгрузка в Excel.
+- **Авторский надзор:** выезды попадают в календарь, чек-лист, оплата за выезд, за месяц или процентом от бюджета ремонта.
+- **Карточка объекта:** адрес, площадь, прораб, помещения.
+- **Бриф клиента:** 22 вопроса, бланк и бриф с ответами в PDF, перенос ответов в карточку объекта.
 
 <p align="center">
   <img src="docs/shot-10-designer-dashboard.png" alt="Пространство «Дизайнер»" width="880">
@@ -68,6 +92,14 @@
 | Рассылки | Холодные рассылки по списку компаний с вашей почты, уведомления об ответах |
 | **Заказы** | Заказы со страницы 3ddd и из писем-уведомлений бирж в вашей почте собираются в один список, мусор убирается |
 | Синхронизация | Одни и те же данные на нескольких компьютерах через облачную папку |
+
+## Что нового в 0.15.0
+
+- Два пространства: «Визер» и «Дизайнер» (подробности выше).
+- Новый внешний вид: тихий «жидкий» фон в цветах темы (отключается в Настройках), плавное переключение пространств, чёрно-белые переключатели и галочки во всех темах.
+- Повторная проверка безопасности, убран обход проверки PRO.
+
+Полный список всех версий: [релизы](https://github.com/AdeptVision3D/3VisOff-releases/releases).
 
 ## PRO и цены
 
@@ -133,11 +165,12 @@ xattr -cr /Applications/3VisOff.app
 
 ## English
 
-**3VisOff** is a desktop organizer for 3D visualizers (freelancers): projects and clients, price calculation (exterior shots, interior rooms by area, urgency, paid revisions), invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. The interface is available in Russian and English. **All data stays on your computer.**
+**3VisOff** is a desktop organizer for freelance **3D visualizers** and **interior designers**: projects and clients, price calculation (exterior shots, interior rooms by area, urgency, paid revisions), invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. The interface is available in Russian and English. **All data stays on your computer.**
 
+- **Two spaces in one app:** "Визер" (visualizer) and "Дизайнер" (designer), switched in the sidebar. The designer space is free and includes work stages from brief to author supervision, price per stage, payment schedule, approval log, procurement list, supervision visits in the calendar, object card and a 22-question client brief.
 - Free base version; PRO adds contracts and acts with auto-filled data, sending documents by email, payment QR codes, branded documents, outreach, order search and multi-device sync.
 - PRO price: **$9 / 30 days, $20 / 90 days, $34 / 180 days**, paid in USDT. A 7-day trial key with part of the PRO features is available on request.
-- Download: [latest release](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) (macOS Apple Silicon and Windows).
+- Download: [latest release](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) (macOS Apple Silicon and Windows 10/11).
 - macOS: the app is not yet signed by Apple; after installing run `xattr -cr /Applications/3VisOff.app` once, or use *System Settings → Privacy & Security → Open Anyway*.
 - Privacy: see [PRIVACY.md](PRIVACY.md) (in Russian). Client and project data are never sent to the developer.
 - Support: [@visoff_support_bot](https://t.me/visoff_support_bot) on Telegram.
