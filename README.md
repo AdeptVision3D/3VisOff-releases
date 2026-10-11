@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/AdeptVision3D/3VisOff-releases/releases/latest"><img src="docs/banner.png" alt="3VisOff: органайзер для 3D-визуализатора" width="100%"></a>
+<a href="https://github.com/AdeptVision3D/3VisOff-releases/releases/latest"><img src="docs/banner.png" alt="3VisOff: творите, остальное посчитаем. Для визуализаторов и дизайнеров интерьеров" width="100%"></a>
 
 [![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=4c8dff)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) ![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey) ![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
 
