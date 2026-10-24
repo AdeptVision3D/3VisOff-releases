@@ -1,28 +1,33 @@
 <div align="center">
 
-<a href="https://github.com/AdeptVision3D/3VisOff-releases/releases/latest"><img src="docs/banner.png" alt="3VisOff: творите, остальное посчитаем. Для визуализаторов и дизайнеров интерьеров" width="100%"></a>
+<a href="https://github.com/AdeptVision3D/3VisOff-releases/releases/latest"><img src="docs/banner.webp" alt="3VisOff: творите, остальное посчитаем. Для визуализаторов и дизайнеров интерьеров" width="100%"></a>
 
-[![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=4c8dff)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) ![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey) ![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
+[![Версия](https://img.shields.io/github/v/release/AdeptVision3D/3VisOff-releases?label=версия&color=1c1c1f&labelColor=555)](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) ![macOS](https://img.shields.io/badge/macOS-M1%2B-lightgrey) ![Windows](https://img.shields.io/badge/Windows-10%2F11-lightgrey)
 
-### [⬇️ Скачать последнюю версию](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest)
+### [Скачать последнюю версию](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest)
 
-[Возможности](#возможности) · [Скриншоты](#как-это-выглядит) · [PRO и цены](#pro-и-цены) · [Установка](#установка) · [Приватность](#приватность) · [Поддержка](#поддержка) · [English](#english)
+Бесплатно. PRO от 650 ₽ в месяц. Пробный ключ на 7 дней по запросу.
+
+[Возможности](#возможности) · [Скриншоты](#как-это-выглядит) · [PRO и цены](#pro-и-цены) · [Установка](#установка) · [Приватность](#приватность) · [Поддержка](#поддержка) · [English](README.en.md)
 
 </div>
 
 <br>
 
-### Творите. Остальное посчитаем.
-
-Цена проекта, счёт, акт, налог и напоминание об оплате: за пару кликов, а не за вечер с таблицами. **3VisOff** — программа для **3D-визуализаторов** и **дизайнеров интерьеров**. Два режима в одном окне: **«Визер»** для рендеров и **«Дизайнер»** для проектов интерьера. Ни облака, ни аккаунтов: всё работает у вас на компьютере и больше нигде.
+**3VisOff** — программа для **3D-визуализаторов** и **дизайнеров интерьеров**: цена проекта, счёт, акт, налог и напоминание об оплате за пару кликов, а не за вечер с таблицами. Два режима в одном окне: **«Визер»** для рендеров и **«Дизайнер»** для проектов интерьера. Ни облака, ни аккаунтов: всё работает на вашем компьютере.
 
 ## Возможности
 
-*Одно окно вместо десяти вкладок: таблицы, калькулятор, шаблоны документов, календарь и учёт денег.*
-
-<p align="center">
-  <img src="docs/features.png" alt="Возможности: проекты и клиенты, расчёт цены, счета и акты, финансы и налоги, поиск заказов, все данные у вас" width="100%">
-</p>
+| | |
+|---|---|
+| **Клиенты** | Кто, что, когда и сколько должен. Вся история с каждым клиентом. |
+| **Цена за минуту** | Кадры, метры, срочность, платные правки. Итог в проект одной кнопкой. |
+| **Документы** | Счёт в PDF собирается из данных проекта. Акт и договор: PRO. |
+| **Деньги** | Кто заплатил, сколько отложить на налог, напоминания до срока. |
+| **Заказы** | Заказы с 3ddd и из писем бирж в одном списке без мусора (PRO). |
+| **Приватность** | Ни облака, ни аккаунтов. PIN-код и резервные копии. |
+| **Режим «Дизайнер»** | От брифа до авторского надзора: этапы, комплектация, график оплат. Бесплатно. |
+| **Синхронизация** | Данные на нескольких компьютерах через облачную папку (PRO). |
 
 ### Что входит в бесплатную версию
 
@@ -34,52 +39,60 @@
 - всё пространство «Дизайнер» (см. ниже);
 - PIN-код, резервные копии и восстановление, светлая, тёмная и чёрно-белая темы, русский и английский интерфейс.
 
-PRO добавляет автоматизацию и интеграции (список [ниже](#что-даёт-pro)).
+PRO добавляет автоматизацию и интеграции ([список ниже](#что-даёт-pro)).
 
 ## Как это выглядит
 
 <p align="center">
-  <img src="docs/shot-1-dashboard.png" alt="Главная" width="880">
+  <img src="docs/shot-1-dashboard.webp" alt="Главная: сводка по проектам, дедлайнам и деньгам" width="880">
 </p>
 <p align="center">
-  <img src="docs/shot-3-project-card.png" alt="Расчёт цены" width="880">
+  <img src="docs/shot-3-project-card.webp" alt="Карточка проекта: расчёт цены по кадрам, срочность и платные правки" width="880">
 </p>
 <table>
 <tr>
-<td width="50%"><img src="docs/shot-2-projects.png" alt="Проекты"></td>
-<td width="50%"><img src="docs/shot-4-finance.png" alt="Финансы"></td>
-</tr>
-<tr>
-<td><img src="docs/shot-5-stats.png" alt="Статистика"></td>
-<td><img src="docs/shot-6-calendar.png" alt="Календарь"></td>
-</tr>
-<tr>
-<td><img src="docs/shot-9-light-dashboard.png" alt="Светлая тема"></td>
-<td><img src="docs/shot-7-orders.png" alt="Раздел «Заказы»"></td>
+<td width="50%"><img src="docs/shot-4-finance.webp" alt="Финансы: доходы, налог и долги клиентов"></td>
+<td width="50%"><img src="docs/shot-6-calendar.webp" alt="Календарь: дедлайны проектов и даты платежей"></td>
 </tr>
 </table>
 
+<details>
+<summary>Ещё скриншоты</summary>
+
+<table>
+<tr>
+<td width="50%"><img src="docs/shot-2-projects.webp" alt="Список проектов со статусами и сроками"></td>
+<td width="50%"><img src="docs/shot-5-stats.webp" alt="Статистика доходов по месяцам"></td>
+</tr>
+<tr>
+<td><img src="docs/shot-9-light-dashboard.webp" alt="Главная в светлой теме"></td>
+<td><img src="docs/shot-7-orders.webp" alt="Раздел «Заказы»: подходящие заказы с бирж в одном списке"></td>
+</tr>
+</table>
+
+</details>
+
 ### Пространство «Дизайнер» (бесплатно)
 
-От брифа до авторского надзора в одном месте. Клиент не скажет «я такого не просил»: версии и правки лежат в журнале. Отдельное пространство для дизайнеров интерьеров, переключатель «Визер / Дизайнер» в боковом меню. У каждого пространства свои проекты, этапы и расчёт цены; клиенты, календарь, финансы и настройки общие. Любой проект можно показать и в другом пространстве. Если вы пользовались программой раньше, вы остаётесь в «Визере», данные не меняются.
+От брифа до авторского надзора в одном месте. Версии и правки лежат в журнале. Отдельное пространство для дизайнеров интерьеров, переключатель «Визер / Дизайнер» в боковом меню. У каждого пространства свои проекты, этапы и расчёт цены; клиенты, календарь, финансы и настройки общие. Любой проект можно показать и в другом пространстве. Если вы пользовались программой раньше, вы остаётесь в «Визере», данные не меняются.
 
 - **План работ по этапам:** бриф, обмеры, планировочные решения, концепция, визуализация, рабочая документация, комплектация, авторский надзор. Этапы с галочками и своими полями; типы проектов «Интерьер», «Экстерьер», «Коммерция».
 - **Цена проекта по этапам**, расчёт за м² и итог одной кнопкой.
 - **График оплат:** «поровну» или «по этапам»; отметка «оплачено» сама создаёт приход в финансах.
 - **Счёт и акт по этапам** в PDF с подписью «Оплачено ранее».
-- **Журнал согласований:** версии, статусы, платные правки, защита от споров «я такого не просил».
+- **Журнал согласований:** версии, статусы, платные правки, история версий для споров о правках.
 - **Ведомость комплектации:** позиции, поставщики, статусы, процент дизайнера, выгрузка в Excel.
 - **Авторский надзор:** выезды попадают в календарь, чек-лист, оплата за выезд, за месяц или процентом от бюджета ремонта.
 - **Карточка объекта:** адрес, площадь, прораб, помещения.
 - **Бриф клиента:** 22 вопроса, бланк и бриф с ответами в PDF, перенос ответов в карточку объекта.
 
 <p align="center">
-  <img src="docs/shot-10-designer-dashboard.png" alt="Пространство «Дизайнер»" width="880">
+  <img src="docs/shot-10-designer-dashboard.webp" alt="Пространство «Дизайнер»: главная с этапами проектов и оплатами" width="880">
 </p>
 <table>
 <tr>
-<td width="50%"><img src="docs/shot-11-designer-stages.png" alt="План работ дизайнера"></td>
-<td width="50%"><img src="docs/shot-12-designer-payments.png" alt="График оплат и согласования"></td>
+<td width="50%"><img src="docs/shot-11-designer-stages.webp" alt="План работ дизайнера: этапы от брифа до авторского надзора"></td>
+<td width="50%"><img src="docs/shot-12-designer-payments.webp" alt="График оплат и журнал согласований"></td>
 </tr>
 </table>
 
@@ -97,13 +110,7 @@ PRO добавляет автоматизацию и интеграции (сп�
 | **Заказы** | Заказы со страницы 3ddd и из писем-уведомлений бирж в вашей почте собираются в один список, мусор убирается |
 | Синхронизация | Одни и те же данные на нескольких компьютерах через облачную папку |
 
-## Что нового в 0.15.0
-
-- Два пространства: «Визер» и «Дизайнер» (подробности выше).
-- Новый внешний вид: тихий «жидкий» фон в цветах темы (отключается в Настройках), плавное переключение пространств, чёрно-белые переключатели и галочки во всех темах.
-- Повторная проверка безопасности, убран обход проверки PRO.
-
-Полный список всех версий: [релизы](https://github.com/AdeptVision3D/3VisOff-releases/releases).
+Подробный журнал изменений: [релизы](https://github.com/AdeptVision3D/3VisOff-releases/releases).
 
 ## PRO и цены
 
@@ -165,18 +172,3 @@ xattr -cr /Applications/3VisOff.app
 - Вопросы, ключи PRO, пробный период, сообщения об ошибках: бот [@visoff_support_bot](https://t.me/visoff_support_bot).
 - Внутри программы есть раздел **«Помощь»** с ответами на частые вопросы и кнопкой «Сообщить о проблеме».
 
----
-
-## English
-
-**Create. We will do the math.**
-
-Project price, invoice, act, tax and payment reminders in a couple of clicks instead of an evening with spreadsheets. **3VisOff** is a desktop app for freelance **3D visualizers** and **interior designers**: projects and clients, price calculation, invoices, acts and contracts as PDF, finance and tax estimates for the self-employed, calendar, backups and PIN protection. No cloud, no accounts: **all data stays on your computer.** The interface is available in Russian and English.
-
-- **Two spaces in one app:** "Визер" (visualizer) and "Дизайнер" (designer), switched in the sidebar. The designer space is free and includes work stages from brief to author supervision, price per stage, payment schedule, approval log, procurement list, supervision visits in the calendar, object card and a 22-question client brief.
-- Free base version; PRO adds contracts and acts with auto-filled data, sending documents by email, payment QR codes, branded documents, outreach, order search and multi-device sync.
-- PRO price: **$9 / 30 days, $20 / 90 days, $34 / 180 days**, paid in USDT. A 7-day trial key with part of the PRO features is available on request.
-- Download: [latest release](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) (macOS Apple Silicon and Windows 10/11).
-- macOS: the app is not yet signed by Apple; after installing run `xattr -cr /Applications/3VisOff.app` once, or use *System Settings → Privacy & Security → Open Anyway*.
-- Privacy: see [PRIVACY.md](PRIVACY.md) (in Russian). Client and project data are never sent to the developer.
-- Support: [@visoff_support_bot](https://t.me/visoff_support_bot) on Telegram.
