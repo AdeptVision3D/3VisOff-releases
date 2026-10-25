@@ -20,7 +20,7 @@ Free. PRO from $9 per 30 days. A 7-day trial key is available on request.
 
 ## Features
 
-| | |
+| What | How |
 |---|---|
 | **Clients** | Who, what, when and how much they owe. The full history with every client. |
 | **Price in a minute** | Shots, square meters, urgency, paid revisions. The total goes into the project with one button. |
