@@ -87,7 +87,7 @@ From brief to author supervision in one place. Switch between "Визер" and "
 | Telegram notifications | Reminders reach your phone through your own bot |
 | Outreach | Cold email to a list of companies from your mailbox, reply notifications |
 | **Orders** | Orders from 3ddd and from job-board notification emails in your mailbox are collected into one list |
-| Sync | The same data on several computers through a cloud folder |
+| Sync | The same data on several computers through a cloud folder. On a new computer: "I already use 3VisOff on another device", key and cloud |
 
 Release notes: [Releases](https://github.com/AdeptVision3D/3VisOff-releases/releases).
 
@@ -101,7 +101,7 @@ The base version is **free** and stays free. PRO is unlocked with a key; no inte
 | 90 days | **$20** | ≈ $6.7 |
 | 180 days | **$34** | ≈ $5.7 |
 
-Payment is in **USDT**; the support bot sends the details. A **7-day trial key** with part of the PRO features is available. Buy a key or get a trial: Telegram bot [@visoff_support_bot](https://t.me/visoff_support_bot).
+Payment is in **USDT**; the support bot sends the details. A **7-day trial key** with part of the PRO features is available. Buy a key or get a trial: Telegram bot [@visoff_support_bot](https://t.me/visoff_support_bot). A key is tied to your Telegram account: if you lose it or install on a new computer, the bot sends it again (🔑 key button).
 
 ## Install
 
@@ -109,7 +109,8 @@ Payment is in **USDT**; the support bot sends the details. A **7-day trial key**
 
 1. Download `3VisOff-Setup-….exe` from **Assets** of the [latest release](https://github.com/AdeptVision3D/3VisOff-releases/releases/latest) and run it.
 2. Windows may show "Unknown publisher" (the app is not code-signed yet). Click **More info**, then **Run anyway**.
-3. Updates arrive by themselves; your data is kept.
+3. In the setup wizard choose the folder, shortcuts and whether to launch after install.
+4. Updates arrive by themselves; your data is kept.
 
 ### macOS (Apple Silicon: M1, M2, M3 and newer)
 
