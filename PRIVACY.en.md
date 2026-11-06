@@ -18,7 +18,7 @@ Your clients, projects, finances, documents, database contents, passwords, PIN, 
 - Recipient of reports: the support service on Cloudflare (Worker `visoff-support-bot`); new errors reach the developer in Telegram, install counters are stored for 90 days without any personal data.
 
 ## Support bot and website
-- **Bot:** if you write to the support bot we receive your Telegram ID, name, @username, the text and attachments of your messages and the PRO keys issued to your account: to answer, issue keys and record payment.
+- **Bot:** consent to data processing is given as a separate document with an “Agree” button before the first message (https://visoff.pages.dev/en/consent/); you can withdraw it with /revoke. If you write to the support bot we receive your Telegram ID, name, @username, the text and attachments of your messages and the PRO keys issued to your account: to answer, issue keys and record payment.
 - **Website:** visits and downloads are counted anonymously (an irreversible mark is kept for two days, only daily totals remain, the network address is not stored); the site uses no cookies and the counter does not run when “Do Not Track” is on.
 - Full policy: https://visoff.pages.dev/en/privacy/ . Offer: https://visoff.pages.dev/en/terms/ .
 
