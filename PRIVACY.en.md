@@ -19,7 +19,7 @@ Your clients, projects, finances, documents, database contents, passwords, PIN, 
 
 ## Support bot and website
 - **Bot:** if you write to the support bot we receive your Telegram ID, name, @username, the text and attachments of your messages and the PRO keys issued to your account: to answer, issue keys and record payment.
-- **Website:** downloads are counted anonymously (an irreversible mark is kept for two days, the network address is not stored); the site uses no cookies.
+- **Website:** visits and downloads are counted anonymously (an irreversible mark is kept for two days, only daily totals remain, the network address is not stored); the site uses no cookies and the counter does not run when “Do Not Track” is on.
 - Full policy: https://visoff.pages.dev/en/privacy/ . Offer: https://visoff.pages.dev/en/terms/ .
 
 ## Links
