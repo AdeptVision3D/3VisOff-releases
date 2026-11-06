@@ -14,7 +14,7 @@ Free. PRO from $9 per 30 days. A 7-day trial key is available on request.
 
 <br>
 
-**3VisOff** is a desktop app for freelance **3D visualizers** and **interior designers**: project price, invoice, act, tax and payment reminders in a couple of clicks instead of an evening with spreadsheets. Two modes in one window: **Визер** (visualizer) for renders and **Дизайнер** (designer) for interior projects. No cloud, no accounts: **all data stays on your computer.** The interface is available in Russian and English.
+**3VisOff** is a desktop app for freelance **3D visualizers** and **interior designers**: project price, invoice, act, tax and payment reminders in one app. Set your rates once, then the price is calculated from shots, urgency and revisions. Two modes in one window: **Визер** (visualizer) for renders and **Дизайнер** (designer) for interior projects. No account needed: **your data is stored on your computer**, and only some features use the internet (details: [what goes to the internet](PRIVACY.en.md)). The interface is available in Russian and English.
 
 > Note: tax features (estimate of the Russian self-employed tax, NPD, 4% / 6%) and requisites lookup by INN are specific to Russia.
 
@@ -27,7 +27,7 @@ Free. PRO from $9 per 30 days. A 7-day trial key is available on request.
 | **Documents** | Invoices as PDF, filled in from project data. Acts and contracts: PRO. |
 | **Money** | Who paid, how much to set aside for tax, reminders before the due date. |
 | **Orders** | Orders from 3ddd and job-board emails in one list, junk filtered out (PRO). |
-| **Privacy** | No cloud, no accounts. PIN protection and backups. |
+| **Privacy** | No account, data on your computer. PIN protection and backups. The internet is used only by features you turn on. |
 | **Designer mode** | From brief to author supervision: stages, procurement list, payment schedule. Free. |
 | **Sync** | The same data on several computers through a cloud folder (PRO). |
 
@@ -61,7 +61,7 @@ Free. PRO from $9 per 30 days. A 7-day trial key is available on request.
 From brief to author supervision in one place. Switch between "Визер" and "Дизайнер" in the sidebar. Each space has its own projects, stages and price calculation; clients, calendar, finance and settings are shared.
 
 - **Work plan by stages:** brief, measurements, layout, concept, visualization, working documentation, procurement, author supervision.
-- **Price per stage**, per-m² calculation and a total in one click.
+- **Price per stage**, per-m² calculation and a total that is saved into the project.
 - **Payment schedule:** equal parts or per stage; marking "paid" creates the income entry in finance.
 - **Invoice and act per stage** as PDF.
 - **Approval log:** versions, statuses and paid revisions kept for disputes.
@@ -85,7 +85,7 @@ From brief to author supervision in one place. Switch between "Визер" and "
 | Payment QR and bank statement | QR in the invoice, import of income from a bank statement |
 | Branded documents | Your logo and colors in invoices, acts and contracts |
 | Telegram notifications | Reminders reach your phone through your own bot |
-| Outreach | Cold email to a list of companies from your mailbox, reply notifications |
+| Outreach | Email campaigns to your own list of recipients from your mailbox, reply notifications |
 | **Orders** | Orders from 3ddd and from job-board notification emails in your mailbox are collected into one list |
 | Sync | The same data on several computers through a cloud folder. On a new computer: "I already use 3VisOff on another device", key and cloud |
 
@@ -149,3 +149,9 @@ Full list of what goes where: **[PRIVACY.en.md](PRIVACY.en.md)** ([in Russian](P
 
 - Questions, PRO keys, trial, bug reports: Telegram bot [@visoff_support_bot](https://t.me/visoff_support_bot).
 - The app has a **Help** section with answers to common questions and a "Report a problem" button.
+
+## Documents
+
+- [Privacy policy](https://visoff.pages.dev/en/privacy/)
+- [Offer and license](https://visoff.pages.dev/en/terms/)
+- Author and seller: Grigorev Leonid Gennadievich, self-employed, Tax ID 402812528889. [Portfolio](https://www.behance.net/1778c8ea)

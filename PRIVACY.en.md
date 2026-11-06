@@ -17,5 +17,10 @@ Your clients, projects, finances, documents, database contents, passwords, PIN, 
 - **Error report:** on a crash the app asks in a window and shows the report text. The error text and a technical trace are sent; names of personal folders, emails, tokens and keys are replaced with placeholders. You can allow "always" in Settings. The window has optional fields "What were you doing?" and "How can we reach you?": they are sent only if you fill them in. The "Report a problem" button in Help sends your description the same way, when you press it.
 - Recipient of reports: the support service on Cloudflare (Worker `visoff-support-bot`); new errors reach the developer in Telegram, install counters are stored for 90 days without any personal data.
 
+## Support bot and website
+- **Bot:** if you write to the support bot we receive your Telegram ID, name, @username, the text and attachments of your messages and the PRO keys issued to your account: to answer, issue keys and record payment.
+- **Website:** downloads are counted anonymously (an irreversible mark is kept for two days, the network address is not stored); the site uses no cookies.
+- Full policy: https://visoff.pages.dev/en/privacy/ . Offer: https://visoff.pages.dev/en/terms/ .
+
 ## Links
 Support (Telegram bot) and the download page simply open in your browser.
